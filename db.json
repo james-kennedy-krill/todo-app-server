@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Todo - edited",
+      "completed": true,
+      "owner": "typicode"
+    },
+    {
+      "title": "Something else -edited",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "Third Title",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todos": [
+    {
+      "title": "Go to the beach",
+      "completed": false,
+      "owner": "typicode",
+      "id": 1
+    },
+    {
+      "title": "Play soccer",
+      "completed": false,
+      "owner": "typicode",
+      "id": 2
+    },
+    {
+      "title": "Have lunch",
+      "completed": false,
+      "owner": "typicode",
+      "id": 3
+    },
+    {
+      "title": "Have dinner",
+      "completed": false,
+      "owner": "typicode",
+      "id": 4
+    },
+    {
+      "title": "Watch the sunset",
+      "completed": false,
+      "owner": "typicode",
+      "id": 5
+    },
+    {
+      "title": "Drink Coffee",
+      "completed": true,
+      "owner": "typicode",
+      "id": 6
+    },
+    {
+      "title": "Fly a kite at the beach",
+      "completed": false,
+      "owner": "typicode",
+      "id": 7
+    }
+  ]
+}
