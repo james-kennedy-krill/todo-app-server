@@ -1,1 +1,1 @@
-web: json-server db.json --port $PORT
+web: npx json-server db.json --port $PORT
